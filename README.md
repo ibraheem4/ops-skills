@@ -1,4 +1,4 @@
-# ops-skills
+# vendor-ops
 
 Skills for the systems a team *coordinates in* rather than builds — issue trackers and
 knowledge wikis. Separate from `agent-skills`, which is engineering practice and workstation
