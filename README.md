@@ -1,3 +1,5 @@
+> **Moved.** This plugin now lives in [`ibraheem4/claude-marketplace` → `plugins/vendor-ops`](https://github.com/ibraheem4/claude-marketplace/tree/main/plugins/vendor-ops), history included. This repo is archived; install with `/plugin install vendor-ops@ibraheem4`.
+
 # vendor-ops
 
 Skills for the systems a team *coordinates in* rather than builds — issue trackers and
